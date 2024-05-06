@@ -1,8 +1,8 @@
 ## First 
 
-Viene incluida la db base con el json de ejemplo
-en caso de querer hacer una migracion por cambio de entindades aplica los cambios y permanecen los pokemons guardados
-en caso de borrar la db, se crea con los scripts de migraciones pero no carga los pokemons, se pueden cargar con el endpoint POST /pokemons, ejemplo mas abajo.
+Viene incluida la db base con el json de ejemplo.
+en caso de querer hacer una migracion por cambio de entindades aplica los cambios y permanecen los pokemons guardados.
+en caso de borrar la db, al levantar el servicio se crean las tablas, tambien se crean con los scripts de migraciones pero no carga los pokemons, se pueden cargar con el endpoint POST /pokemons, ejemplo mas abajo.
 
 ## Installation
 
